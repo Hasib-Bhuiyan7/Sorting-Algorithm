@@ -1,0 +1,16 @@
+Hasib Bhuiyan -- 501169402
+
+Everything works fine, the text file used for best sortion, worst sortion and average sortion all have 10 integers in the file. The best case has file with all the numbers already sorted, the worst case has the numbers sorted in reverse order, and the average case has numbers that are half sorted and half unsorted.
+
+Insertion Sort:-
+
+Worst Case --> O(n^2)                             [45 Comparisons, 45 Swaps, 10 Copy Operations]
+Average Case --> Between O(n^2) and Omega(nlogn)  [12 Comparisons,  3 Swaps, 10 Copy Operations]
+Best Case --> O(n)                                [ 9 Comparisons,  0 Swaps, 10 Copy Operations]
+
+
+Merge Sort:-
+
+Worst Case --> O(nlogn)    [15 Comparisons, 0 Swaps, 68 Copy Operations]
+Average Case --> O(nlogn)  [21 Comparisons, 0 Swaps, 68 Copy Operations]
+Best Case --> O(nlogn)     [19 Comparisons, 0 Swaps, 68 Copy Operations]
